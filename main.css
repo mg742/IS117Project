@@ -1,0 +1,36 @@
+body {
+    background-color: snow;
+}
+nav{
+    position: sticky;
+    text-align: center;
+    font-family: "Berlin Sans FB";
+}
+h1 {
+    text-align: center;
+    font-family: Bahnschrift;
+    margin-top: 5px;
+}
+.img-fluid {
+    margin-top: 15px;
+    align-content: center;
+}
+
+.card-deck {
+    margin: 20px 90px;
+    font-family: "Berlin Sans FB";
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.7rem;
+}
+.dropdown-menu{
+    margin-left: 46%;
+}

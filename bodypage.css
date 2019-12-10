@@ -1,0 +1,53 @@
+body {
+    background-color: snow;
+}
+nav{
+    position: sticky;
+    text-align: center;
+    font-family: "Berlin Sans FB";
+}
+
+.img-fluid {
+    margin-top: 15px;
+    align-content: center;
+}
+h1 {
+    text-align: center;
+    font-family: Bahnschrift;
+    margin-top: 5px;
+}
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Bahnschrift
+}
+h3{
+    margin-top: 10px;
+    font-size: 90%;
+    text-align: center;
+    position: absolute;
+    right:0;
+}
+aside {
+    position: absolute;
+    top: 5px;
+    right: -5px;
+    float: right;
+    text-align: right;
+    max-width: 50px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.7rem;
+}
+.dropdown-menu{
+    position: inherit;
+}
