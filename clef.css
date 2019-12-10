@@ -17,14 +17,19 @@ h1 {
     margin-top: 5px;
 }
 h2 {
+    font-size: 30px;
     text-align: left;
     margin-top: 20px;
-    margin-left: 250px;
+    margin-left: 270px;
     font-family: Bahnschrift
 }
 h3 {
-    margin-top: 20px;
-    font-size: 90%;
+    font-size: 30px;
+    text-align: right;
+    margin-top: -55px;
+    margin-right: 215px;
+    margin-bottom: 20px;
+    font-family: Bahnschrift
 }
 
 aside1 {
